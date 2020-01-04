@@ -1,0 +1,14 @@
+name: statsbomb
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - jupyter
+  - python
+  - matplotlib
+  - pandas
+  - scipy
+  - seaborn
+  - conda-forge::ffmpeg
+  - feather-format
+  - scikit-learn
