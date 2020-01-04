@@ -1,3 +1,7 @@
+The data are licensed under StatsBomb Public Data User Agreement: https://github.com/statsbomb/open-data/blob/master/LICENSE.pdf.
+The code uses the MIT license. 
+
+Code:
 MIT License
 
 Copyright (c) 2020 Andrew Rowlinson
@@ -19,3 +23,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Data:
+Please refer to the StatBomb Public Data User Agreement: https://github.com/statsbomb/open-data/blob/master/LICENSE.pdf.
