@@ -1,4 +1,4 @@
-name: statsbomb
+name: statsbomb-explore
 channels:
   - anaconda
   - conda-forge
@@ -12,3 +12,4 @@ dependencies:
   - conda-forge::ffmpeg
   - feather-format
   - scikit-learn
+  - openpyxl
