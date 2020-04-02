@@ -13,3 +13,8 @@ dependencies:
   - feather-format
   - scikit-learn
   - openpyxl
+  - pillow
+  - requests
+  - pip
+  - pip:
+      - mplsoccer
