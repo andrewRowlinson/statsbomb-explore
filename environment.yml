@@ -11,6 +11,11 @@ dependencies:
   - scikit-learn
   - pillow
   - openpyxl
+<<<<<<< HEAD
+=======
+  - pillow
+  - requests
+>>>>>>> 6d5a52dc8abbb526b8433831ca108d0786cbc715
   - pip
   - pip:
       - mplsoccer
