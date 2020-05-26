@@ -1,15 +1,16 @@
 name: statsbomb-explore
 channels:
   - anaconda
-  - conda-forge
 dependencies:
   - jupyter
-  - python
-  - matplotlib
   - pandas
   - scipy
   - seaborn
-  - conda-forge::ffmpeg
-  - feather-format
+  - beautifulsoup4
+  - pyarrow
   - scikit-learn
+  - pillow
   - openpyxl
+  - pip
+  - pip:
+      - mplsoccer
